@@ -1,0 +1,9 @@
+# 파일
+*.csv
+*.zip
+*.tgz
+
+# 폴더
+datasets/
+mvadata/
+.ipynb_checkpoints/
